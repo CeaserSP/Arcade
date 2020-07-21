@@ -1,0 +1,19 @@
+{
+  "name": "arcade",
+  "version": "1.0.0",
+  "description": "Arcade game Web-Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeaserSP/Arcade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeaserSP/Arcade/issues"
+  },
+  "homepage": "https://github.com/CeaserSP/Arcade#readme"
+}
